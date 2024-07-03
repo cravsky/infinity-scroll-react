@@ -1,6 +1,6 @@
-# React Template
+# Infinity Scroll React
 
-This is a blank React project
+Infinity Scroll in React
 
 
 # React + Vite

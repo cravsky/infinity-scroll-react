@@ -1,8 +1,8 @@
 {
-  "name": "template-react",
+  "name": "infinity-scroll-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://cravsky.github.io/template-react/",
+  "homepage": "https://cravsky.github.io/infinity-scroll-react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
